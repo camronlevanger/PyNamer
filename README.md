@@ -10,6 +10,7 @@ While original intentions for the script are to rename media, this script can re
 
 Usage
 -----
+python pynamer.py directory fnmatch [options]
 
 ### Options:
 `-h, --help`            show this help message and exit
